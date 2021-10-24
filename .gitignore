@@ -56,4 +56,6 @@ samples/cpp/sample
 
 *.xcuserdatad/
 
-/bin/
+Debug/
+Debug_JNI/
+*.class
