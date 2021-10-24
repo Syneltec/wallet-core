@@ -58,4 +58,4 @@ samples/cpp/sample
 
 Debug/
 Debug_JNI/
-*.class
+bin/
